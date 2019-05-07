@@ -128,7 +128,7 @@ SKILLS
 	padding: 1%;	
 	margin: 2.5%;
 	font-size: 1vw;
-	color: purple;
+	color: blue;
 }
 
 ul {
@@ -189,7 +189,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: purple;
+  background-color: blue;
   color: white;
   padding: 12px 20px;
   border: none;
