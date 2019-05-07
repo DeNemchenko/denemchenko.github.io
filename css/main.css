@@ -36,7 +36,7 @@ USER AGENT STYLESHEET
  }
 
 .cover, .skills, .contact {
-    background: url(images/my_image.jpg) top left no-repeat;
+    background: url(images/My_image.png) top left no-repeat;
     text-align: center;
     background-size: cover;
     display: table;
