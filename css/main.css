@@ -50,6 +50,7 @@ USER AGENT STYLESHEET
 
 h2 {
 	text-decoration: underline;
+	color: blue;
 }
 
 /**************
@@ -107,12 +108,6 @@ PERSONAL IMAGE
 /**************
 SKILLS
 ***************/
-
-.projects-title {
-	color: #7d97ad;
-	margin-left: 8px;
-	font-size: 2vw;
- }
 
 .my_skills {
 	margin: 0;
