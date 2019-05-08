@@ -209,7 +209,7 @@ footer {
   font-size: 1.5vw;
   text-align: center;
   clear: both;
-  padding-top: 50px;
+  padding-top: 35px;
   color: #7d97ad;
   display: block;
 } 
@@ -217,7 +217,7 @@ footer {
 .social-icon {
   width: 2.5vw;
   height: 2.5vw;
-  margin: 1em 5px;
+  margin: 1% 5px 0;
 }
 
 /**************
